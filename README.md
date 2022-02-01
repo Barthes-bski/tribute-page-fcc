@@ -2,6 +2,8 @@
 ### *Página Tributo a MF DOOM*
 Página Tributo Realizada para FreeCodeCamp para obtener [Certificado de Diseño Web Responsivo](https://www.freecodecamp.org/espanol/learn/responsive-web-design/).
 
+Puede ingresar al siguiente enlace para ver desplegado la [página Tributo](https://codepen.io/barthes-bski/details/JjrqvwL).
+
 La información desplegada en la página fue extraída desde los siguientes sitios:
 
  - [Quién fue MF DOOM, el rapero favorito de tu rapero
